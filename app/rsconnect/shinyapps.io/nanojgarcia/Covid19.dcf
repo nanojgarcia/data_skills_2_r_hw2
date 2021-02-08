@@ -1,0 +1,12 @@
+name: Covid19
+title: Covid19
+username:
+account: nanojgarcia
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3598313
+bundleId: 4196444
+url: https://nanojgarcia.shinyapps.io/Covid19/
+when: 1612799620.10932
+asMultiple: FALSE
+asStatic: FALSE
